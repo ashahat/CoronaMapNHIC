@@ -1,0 +1,57 @@
+PODS:
+  - Alamofire (5.0.5)
+  - AlamofireImage (4.0.3):
+    - Alamofire (< 6.0.0, >= 5.0.2)
+  - ExpandingMenu (0.4.0)
+  - IBMSwiftSDKCore (1.0.0)
+  - IBMWatsonAssistantV2 (3.2.0):
+    - IBMSwiftSDKCore (~> 1.0.0)
+  - InputBarAccessoryView (4.3.2):
+    - InputBarAccessoryView/Core (= 4.3.2)
+  - InputBarAccessoryView/Core (4.3.2)
+  - MessageKit (3.1.0):
+    - InputBarAccessoryView (~> 4.3.0)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - OneSignal (2.13.0)
+  - SCLAlertView (0.8)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - ExpandingMenu
+  - IBMWatsonAssistantV2
+  - MessageKit
+  - NVActivityIndicatorView
+  - OneSignal
+  - SCLAlertView
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - AlamofireImage
+    - ExpandingMenu
+    - IBMSwiftSDKCore
+    - IBMWatsonAssistantV2
+    - InputBarAccessoryView
+    - MessageKit
+    - NVActivityIndicatorView
+    - OneSignal
+    - SCLAlertView
+
+SPEC CHECKSUMS:
+  Alamofire: df2f8f826963b08b9a870791ad48e07a10090b2e
+  AlamofireImage: 3d1a2010519e58675318735580eb856e88840ff7
+  ExpandingMenu: 3187a4ed1aa1aea85418e444c213e4cd6063c122
+  IBMSwiftSDKCore: 54ad77b03a4d27b218ba514580197db3b89a96ca
+  IBMWatsonAssistantV2: 506df50d672244fcb9ee9bf04e843cb0e2d62f8f
+  InputBarAccessoryView: 7985d418040a05fe894bd4b8328dd43ab35517c3
+  MessageKit: 3beb578737a5aa2bba25cc27c7b6d6faa09af5a7
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  OneSignal: 09c9fe1e7a097af5fda94e00c1598c3c945552b9
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+
+PODFILE CHECKSUM: b49bb3a74d9f5193ac6ed1dfa4202d593307fe9a
+
+COCOAPODS: 1.9.1
