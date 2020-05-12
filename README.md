@@ -1,3 +1,5 @@
+This version was used by Nationl Health Information Center from version 1.0.0 until 1.0.8 then we devloped our own tracker 
+
 <img src="https://user-images.githubusercontent.com/121827/76558431-5e747900-64ae-11ea-9168-2091a431773a.png" width="127">
 
 # Corona Tracker 
